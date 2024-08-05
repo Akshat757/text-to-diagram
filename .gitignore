@@ -1,0 +1,151 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a Python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Data files
+*.csv
+*.h5
+*.hdf5
+
+# Graphviz
+.dot
+.pdf
+.png
+.svg
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+# VS Code
+.vscode/
+*.code-workspace
+# PyCharm
+.idea/
+*.iml
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Other editors
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python egg metadata, build and distribution directories
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# C extensions
+*.so
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+#  Usually these files are written by a Python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# MacOS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Thumbs database files
+Desktop.ini
+
+# Windows custom folder config files
+$RECYCLE.BIN/
+
+# Compiled static files
+*.class
+*.o
+*.pyc
+*.pyo
+*.pyd
+
+# Test results
+coverage/
+
+test_graph
+test_graph.png
+structure
+output.png
+output.svg
