@@ -29,7 +29,7 @@ def convert_to_diagram(input_text, input_format, output_format, diagram_type):
     else:
         raise ValueError("Unsupported diagram type")
 
-    output_file = f"output.{output_format}"
+    output_file = f"./extras/output.{output_format}"
     if output_format == 'svg':
         render_svg(dot_source, output_file)
     elif output_format == 'png':

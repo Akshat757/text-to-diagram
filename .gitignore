@@ -144,8 +144,9 @@ $RECYCLE.BIN/
 # Test results
 coverage/
 
-test_graph
-test_graph.png
-structure
-output.png
-output.svg
+# test_graph
+# test_graph.png
+# structure
+# output.png
+# output.svg
+extras
